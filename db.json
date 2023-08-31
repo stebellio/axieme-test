@@ -1,0 +1,13 @@
+[
+  {
+    "username": "Pallino",
+    "password": "$2b$10$gEgidz7tSW8XP2bFNdS4yusWZ8xDqITfZvhiRleoONqAUL5RaEJ9G",
+    "timeZone": "Asia/Tokyo"
+  },
+  {
+    "username": "Tizio",
+    "password": "$2b$10$G9GPAXWujEtksbwjWUD4BetL8TuxafgfZIHsUBd6F6joIuKwHx5WC",
+    "timeZone": "Europe/London",
+    "offset": -2
+  }
+]
